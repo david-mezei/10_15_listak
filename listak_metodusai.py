@@ -1,7 +1,6 @@
-honapok = ['január', 'február', 'március', 'április', 'május', 'június', 'július', 'augusztus', 'szeptember', 'október', 'november']
-
+honapok = ['január', 'február', 'március', 'április', 'május', 'június']
 # Elem hozzáadása lista végére
-honapok.append('december')
+honapok.append('július')
 print(f"A műveletek előtt a listánk: \n{', '.join(honapok)}")
 
 # eltávolítja a legutolsó elemet, és azzal tér vissza
